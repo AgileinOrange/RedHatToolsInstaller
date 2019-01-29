@@ -9,7 +9,7 @@
     - name: "rhn_username"
       prompt: "Enter Red Hat Network username"
     - name: "rhn_password"
-      prompt: "Enter Red Hat Networt password"
+      prompt: "Enter Red Hat Network password"
       private: yes
    
   tasks:
